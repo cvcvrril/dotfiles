@@ -3,3 +3,5 @@
 .DS_store
 .config/spicetify/Extensions/spicetify-extensions/
 .config/spicetify/Themes/spicetify-themes/
+config/.config/spicetify/Extensions/spicetify-extensions/
+config/.config/spicetify/Themes/spicetify-themes/
