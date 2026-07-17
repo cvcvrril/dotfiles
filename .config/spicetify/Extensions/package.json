@@ -1,0 +1,19 @@
+{
+	"name": "spicetify-extensions",
+	"author": "ririxi <dev@ririxi.dev>",
+	"license": "MIT",
+	"scripts": {
+		"build": "tsc"
+	},
+	"packageManager": "pnpm@9.1.3",
+	"engines": {
+		"node": ">=18",
+		"npm": "please-use-pnpm",
+		"pnpm": ">=9",
+		"yarn": "please-use-pnpm"
+	},
+	"devDependencies": {
+		"@types/react": "^18.3.3",
+		"typescript": "^5.4.5"
+	}
+}
